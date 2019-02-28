@@ -15,22 +15,22 @@ Website yang berfungsi untuk melakukan pengontrolan kelas (Apakah kelas ini koso
 1. Halaman Student Class (Kelas Siswa)
 Pada halaman ini, petugas piket bisa melakukan pengolahan data mata pelajaran (melihat, menambah, menghapus, mengubah)
 
-![alt text](https://github.com/madiwahyudi6/movingclass_app/blob/master/picts/Studentclass.JPG)
+![alt text](https://github.com/madiwahyudi6/movingclass_apps/blob/master/picts/Studentclass.JPG)
 
 
 2. Halaman Class Activity (Aktivitas kelas)
 Pada halaman ini, petugas piket bisa mengontrol kelas yang dipakai atau tidak, selain itu petugas piket bisa mengolah kembali aktivitas kelas (melihat, mengosongkan kelas, mengisikan kelas)
 
-![alt text](https://github.com/madiwahyudi6/movingclass_app/blob/master/picts/Classactivity.JPG)
+![alt text](https://github.com/madiwahyudi6/movingclass_apps/blob/master/picts/Classactivity.JPG)
 
 
 3. Halaman Classroom (Ruangan)
 Pada halaman ini, petugas piket bisa melakukan pengolahan data ruangan (melihat, menambah, menghapus, mengubah)
 
-![alt text](https://github.com/madiwahyudi6/movingclass_app/blob/master/picts/Classroom.JPG)
+![alt text](https://github.com/madiwahyudi6/movingclass_apps/blob/master/picts/Classroom.JPG)
 
 
 4. Halaman SUbject (Mata Pelajaran)
 Pada halaman ini, petugas piket bisa melakukan pengolahan data mata pelajaran (melihat, menambah, menghapus, mengubah)
 
-![alt text](https://github.com/madiwahyudi6/movingclass_app/blob/master/picts/Subject.JPG)
+![alt text](https://github.com/madiwahyudi6/movingclass_apps/blob/master/picts/Subject.JPG)
